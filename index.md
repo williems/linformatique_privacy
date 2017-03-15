@@ -47,4 +47,4 @@ By using the Application, you are consenting to our processing of your informati
 
 If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at <span class="field" data-name="Email address" data-default="privacy@applicationsite.com" data-type="short" data-owner="sender">yo@williems.com</span>.
 
-You can translate this page into your languange by using your Google Translate at https://translate.google.com/
+You can translate this page into your languange by using [Google Translate](https://translate.google.com/)
